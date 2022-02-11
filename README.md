@@ -14,3 +14,13 @@
 
         modified:   README.md
         modified:   pages/index.js
+
+#### 4.2 Create roomController
+
+        bookit> npm install next-connect
+
+        new file:   controllers/roomController.js
+        new file:   package-lock.json
+        modified:   package.json
+        deleted:    pages/api/hello.js
+        new file:   pages/api/rooms/index.js
